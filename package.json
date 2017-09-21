@@ -1,0 +1,24 @@
+{
+  "name": "hi_fi_sebastian_olesen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianolesen/hi_fi_sebastian_olesen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastianolesen/hi_fi_sebastian_olesen/issues"
+  },
+  "homepage": "https://github.com/sebastianolesen/hi_fi_sebastian_olesen#readme",
+  "dependencies": {
+    "mysql2": "^1.4.2",
+    "restify": "^6.0.1",
+    "restify-cors-middleware": "^1.0.1"
+  }
+}
